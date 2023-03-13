@@ -113,7 +113,8 @@ const config = {
                 'Sci-fi Infinite Runner',
             imageUrl: 'https://via.placeholder.com/250x250',
             link: 'https://skilious.itch.io/mobius',
-        }, {
+        },
+        {
             title: 'Unity 2D - Unknown, Game Developer',
             description:
                 'Roguelike Game',

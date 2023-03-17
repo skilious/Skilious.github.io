@@ -7,7 +7,7 @@ const config = {
         limit: 10, // How many projects to display.
         exclude: {
             forks: true, // Forked projects will not be displayed if set to true.
-            projects: [], // These projects will not be displayed. example: ['my-project1', 'my-project2']
+            projects: ['Skilious'], // These projects will not be displayed. example: ['my-project1', 'my-project2']
         },
     },
     social: {
@@ -90,7 +90,7 @@ const config = {
             title: 'Unreal Engine 4 Major Project - Sigil, Lead Programmer',
             description:
                 'Stylised 3D Survival Open Island RPG',
-            imageUrl: 'https://via.placeholder.com/250x250',
+            imageUrl: 'https://cdn.discordapp.com/attachments/603554967063625749/1086082495113601086/Sigil_Fixed.png',
             link: 'https://dayna-aspite.itch.io/sigil',
         },
         {

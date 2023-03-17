@@ -113,7 +113,7 @@ const config = {
             title: 'Unity 2D - Mobius, Gameplay Programmer',
             description:
                 'Sci-fi Infinite Runner',
-            imageUrl: 'https://cdn.discordapp.com/attachments/603554967063625749/1086084772134137906/Mobius.png',
+            imageUrl: 'https://cdn.discordapp.com/attachments/603554967063625749/1086085616418172928/Mobius.png',
             link: 'https://skilious.itch.io/mobius',
         },
         {

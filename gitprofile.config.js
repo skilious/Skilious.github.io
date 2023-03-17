@@ -106,14 +106,14 @@ const config = {
             title: 'Unity 2D Rapid Prototype - Vanish, Game Developer',
             description:
                 'Defeat Bacteria with Vanish Spray bottle!',
-            imageUrl: 'https://via.placeholder.com/250x250',
+            imageUrl: 'https://cdn.discordapp.com/attachments/603554967063625749/1086084772511629403/Vanish.png',
             link: 'https://skilious.itch.io/vanish',
         },
         {
             title: 'Unity 2D - Mobius, Gameplay Programmer',
             description:
                 'Sci-fi Infinite Runner',
-            imageUrl: 'https://via.placeholder.com/250x250',
+            imageUrl: 'https://cdn.discordapp.com/attachments/603554967063625749/1086084772134137906/Mobius.png',
             link: 'https://skilious.itch.io/mobius',
         },
         {
